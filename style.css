@@ -8,3 +8,9 @@
 section{
     margin:5%;
 }
+
+@media (max-width: 768px) {
+img{
+    width: 100%;
+}
+}
