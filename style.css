@@ -5,6 +5,10 @@
     font-family: 'Ysabeau Office', sans-serif;
 }
 
+#mod3{
+    margin-bottom: 10%;
+}
+
 section{
     margin:5%;
 }
@@ -12,5 +16,11 @@ section{
 @media (max-width: 768px) {
 img{
     width: 100%;
+}
+#logo{
+    width: 150px;
+}
+#mod3{
+    margin-bottom: 150px;
 }
 }
